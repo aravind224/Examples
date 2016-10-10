@@ -11,5 +11,5 @@ if ( age < 18 ){
 } else { 
 	printf("he can vote\n");
 }
-	return 0;
+return 0;
 }
